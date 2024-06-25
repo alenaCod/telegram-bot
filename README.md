@@ -1,5 +1,5 @@
 # telegram-bot
-This game named Quess the number
+This game is called "Guess the Number"
 
 
 
